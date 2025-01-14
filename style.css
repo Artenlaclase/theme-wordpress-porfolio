@@ -1,0 +1,11 @@
+/*
+Theme Name: Portfolio Theme
+Author: Raúl Rosales 
+Description: Un theme básico para un portafolio.
+Version: 1.0
+*/
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
